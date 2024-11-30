@@ -5,8 +5,13 @@ Ele permite o acompanhamento de entradas e saídas de mercadorias, gerenciamento
 Ideal para pequenos e médios comerciantes que buscam otimizar suas operações diárias, reduzindo perdas e aumentando a eficiência.
 
 Funcionamento do projeto:
+
 O usuario pode adicionar produto;
+
 Atualizar o produto;
+
 Listar os produtos;
+
 Salvar o estoque dos produtos;
+
 Sair do programa
