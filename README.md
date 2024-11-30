@@ -1,6 +1,6 @@
-Sistema de Gerenciamento de Estoque de Loja
+Sistema de Gerenciamento de Estoque
 
-O Sistema de Gerenciamento de Estoque de Loja é uma aplicação projetada para simplificar e automatizar o controle de produtos em estoque. 
+O Sistema de Gerenciamento de Estoque é uma aplicação projetada para simplificar e automatizar o controle de produtos em estoque. 
 Ele permite o acompanhamento de entradas e saídas de mercadorias e a geração de relatórios detalhados.
 Ideal para pequenos e médios comerciantes que buscam otimizar suas operações diárias, reduzindo perdas e aumentando a eficiência.
 
